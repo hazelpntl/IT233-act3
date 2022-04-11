@@ -1,0 +1,10 @@
+C:\Users\win102021\source\repos\4\4\bin\Debug\4.exe.config
+C:\Users\win102021\source\repos\4\4\bin\Debug\4.exe
+C:\Users\win102021\source\repos\4\4\bin\Debug\4.pdb
+C:\Users\win102021\source\repos\4\4\obj\Debug\4.csproj.AssemblyReference.cache
+C:\Users\win102021\source\repos\4\4\obj\Debug\_4.Form1.resources
+C:\Users\win102021\source\repos\4\4\obj\Debug\_4.Properties.Resources.resources
+C:\Users\win102021\source\repos\4\4\obj\Debug\4.csproj.GenerateResource.cache
+C:\Users\win102021\source\repos\4\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+C:\Users\win102021\source\repos\4\4\obj\Debug\4.exe
+C:\Users\win102021\source\repos\4\4\obj\Debug\4.pdb
